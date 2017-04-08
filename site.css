@@ -15955,5 +15955,6 @@ body:not(.button-style-default).button-style-outline .sqs-editable-button:hover 
 @media screen and (min-width: 420px) {
   #credits-column {
     column-count: 2;
+    column-gap: 40px; /* equal to default ul padding */
   }
 }
